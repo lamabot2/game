@@ -42,5 +42,7 @@ def update_data():
 
 read_file()
 create_table()
-# insert_data()
+insert_data()
 update_data()
+
+print('ALL READY')
